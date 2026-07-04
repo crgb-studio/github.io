@@ -1,0 +1,5 @@
+[hidemenubutton] 
+[preload  storage="./data/bgimage/bg_black.jpg"  ]
+[preload  storage="./data/bgimage/bg018a.jpg"  ]
+[preload  storage="./data/bgimage/bg017a.jpg"  ]
+[return] 

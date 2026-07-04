@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/bg004a.png"  ]
+[preload  storage="./data/bgimage/bg002a.png"  ]
+[preload  storage="./data/bgimage/bg003a.png"  ]
+[preload  storage="./data/bgimage/bg_black.jpg"  ]
+[preload  storage="./data/bgimage/bg001a.png"  ]
+[preload  storage="./data/bgimage/title_enisi.jpg"  ]
+[return]
