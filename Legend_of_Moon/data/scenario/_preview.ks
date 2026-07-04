@@ -1,0 +1,30 @@
+[_tb_system_call storage=system/_preview.ks ]
+
+[mask time=10]
+[bg  storage="bg_black.jpg"  time="10"  method="fadeInDown"  cross="false"  ]
+[tb_show_message_window] 
+[mask_off time=10]
+[tb_ptext_hide  time="500"  ]
+[chara_show  name="曾玉琴"  time="250"  wait="true"  storage="chara/7/chin01_1.png"  width="512"  height="1768"  left="79"  top="-32"  reflect="false"  ]
+[chara_hide  name="曾玉琴"  time="500"  wait="true"  pos_mode="false"  ]
+[chara_show  name="曾玉琴"  time="250"  wait="true"  storage="chara/7/chin01_1.jpg"  width="296"  height="823"  left="185"  top="137"  reflect="false"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+#曾玉琴
+「如果可以跟妳回去，一定會很幸福吧。」[p]
+[_tb_end_text]
+
+[tb_start_text mode=4 ]
+#
+[_tb_end_text]
+
+[chara_hide  name="曾玉琴"  time="100"  wait="true"  pos_mode="false"  ]
+[tb_hide_message_window  ]
+[wait  time="500"  ]
+[tb_ptext_show  x="79"  y="400"  size="28"  color="0xffffff"  time="500"  text="《皓月奇譚》卷二‧黑水溝與深淵魔蛇"  face="cursive"  edge="undefined"  shadow="undefined"  anim="true"  fadeout="false"  wait="true"  in_effect="fadeIn"  out_effect="fadeOut"  ]
+[wait  time="150"  ]
+[tb_ptext_show  x="192"  y="460"  size="24"  color="0xffffff"  time="500"  text="2023.03.13　本篇完結"  face="cursive"  edge="undefined"  shadow="undefined"  anim="true"  fadeout="false"  wait="true"  in_effect="fadeIn"  out_effect="fadeOut"  ]
+[l  ]
+[tb_ptext_hide  time="500"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]

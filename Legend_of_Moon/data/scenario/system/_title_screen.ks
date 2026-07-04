@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/bg_black.jpg"  ]
+[preload  storage="./data/bgimage/bg_title.jpg"  ]
+[preload  storage="./data/fgimage/default/moon_txt.png"  ]
+[preload  storage="./data/fgimage/default/moon_txt2.png"  ]
+[preload  storage="./data/fgimage/default/logo.jpg"  ]
+[preload  storage="./data/fgimage/default/sozai.jpg"  ]
+[return]
